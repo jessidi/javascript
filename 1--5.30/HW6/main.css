@@ -1,0 +1,18 @@
+/* Styles go here. */
+
+/*.class{
+    display: flex
+}*/
+.row{
+    display: flex;
+    width: 30%;
+    margin: 0 auto;
+}
+table{
+    border-collapse: collapse;
+    
+}
+th{
+    border: 1px solid black;
+    padding: 5px;
+}
